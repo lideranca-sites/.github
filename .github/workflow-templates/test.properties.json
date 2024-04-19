@@ -1,7 +1,6 @@
 {
     "name": "Test Workflow",
     "description": "Workflow que executa testes em todo push e PR aberto para a branch padrão",
-    "iconName": "example-icon",
     "categories": [
         "Test",
         "CI"

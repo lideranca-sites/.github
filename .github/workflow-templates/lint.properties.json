@@ -1,7 +1,6 @@
 {
     "name": "Linting Workflow",
     "description": "Executa comando de lint ao dar push ou abrir um PR para a branch padrão",
-    "iconName": "example-icon",
     "categories": [
         "Typescript",
         "Node.js",
